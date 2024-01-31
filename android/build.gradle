@@ -56,6 +56,8 @@ android {
         //If you need liveness
         implementation 'com.yoti.mobile.android.sdk:yoti-sdk-liveness-zoom:3.1.0'
 
+        implementation 'com.yoti.mobile.android:face-capture-unbundled:4.2.1'
+
     }
 
     packagingOptions {
