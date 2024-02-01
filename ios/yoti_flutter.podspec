@@ -3,7 +3,7 @@
 # Run `pod lib lint yoti_flutter.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'yoti_flutter'
+  s.name             = 'yoti_flutter_custom'
   s.version          = '0.0.7'
   s.summary          = 'Flutter plugin to dridge to Yoti native SDKS..'
   s.description      = <<-DESC
